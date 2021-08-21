@@ -1,3 +1,4 @@
 Describe your development and deployment workflow in enough detail that a new team member or someone taking over the project could follow to successfully test and deploy theme updates to your staging and live sites. This should include issues/processes such as project management, version control, testing and automation. Do not provide private details like passwords.
 
 The Deployment and web development was to push changes from one deployment environment to another.
+1. Our website used the remote host known as Site Ground which provided local development as well as staging production.
