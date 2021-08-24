@@ -2,3 +2,4 @@ Describe your development and deployment workflow in enough detail that a new te
 
 The Deployment and web development was to push changes from one deployment environment to another.
 Our website used the remote host known as Site Ground which provided local development as well as staging production. 
+
