@@ -1,1 +1,3 @@
 This page should help a new developer to continue developing your theme. Include relevant information about what features your theme has, files that would need editing, design decisions, colours, etc. You do not need to produce a serious design document or reproduce basic details about WordPress theme development, only what is specific to your theme.
+
+For creating the website, we used Nice Page plugin. We did not put much work into the theme colours, we went with the default colours that were presented with the blocks we chose and edited all the pages to have the same theme. The first page that we designed was the home page. We created a fixed header and footer with the navigation pane being in the top right corner.
