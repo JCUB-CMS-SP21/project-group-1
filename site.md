@@ -4,3 +4,5 @@ The skeleton of this website was created using the Nice Page plugin. The first s
 All the other pages still require attention but are less likely to have drastic changes. They only need to be updated if necessary, for instance the Contac Us page would only be updated if the details have changed (new numbers etc). 
 
 Because we are using a Nice Page plugin, the editing would have to be done in Nice page. If you want to add a new page you can but if you want to add little snips of content you would have to either edit within the existing "blocks" or add new blocks and later include your content. Adding blocks is pretty straightforward, there will be templates available for you to choose depending on how you want your content displayed. As long as you can eaisly edit the blocks you will be able to maintain the rest of the website.
+
+**NOTE:** It would be safer for one person at a time to log in and do changes if using siteground to host because everyone has their own additional content that would be saved locally which could cancel out changes that others make. Better to log in directly to the admin for WordPress.org.
